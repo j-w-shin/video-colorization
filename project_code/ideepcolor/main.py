@@ -194,14 +194,14 @@ if __name__ == '__main__':
     fps = 30
 
     # vanilla_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_vanilla_path)
-    feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_path)
+    # feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_path)
 
     # # img = cv2.imread(out_frames_path + "frame0.jpg")
     # img = cv2.imread('../colorization/Code/Results/frame0_Result_sat.png')
     # height, width, _ = img.shape
-    # video = cv2.VideoWriter('gupta_5.mp4', -1, 30, (width, height))
+    # video = cv2.VideoWriter('gupta_6.mp4', -1, 30, (width, height))
     #
-    # for i in range(126):
+    # for i in range(150):
     #     # img = cv2.imread(out_frames_path + "frame" + str(i) + ".jpg")
     #     img = cv2.imread('../colorization/Code/Results/frame' + str(i) + '_Result_sat.png')
     #     video.write(img)

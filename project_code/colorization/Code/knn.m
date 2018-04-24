@@ -27,8 +27,12 @@ function [D, N] = knn(X, Y, k)
 % D = D(1:k,:);
 
 % top(x,k) is a partial sort function which returns top k entries of x 
+disp("start knn");
+disp(size(X));
+disp(size(Y));
 [D, N] = top(bsxfun(@plus,(-2)*(Y'*X),dot(Y,Y,1)'), k);
 D = bsxfun(@plus,D,dot(X,X,1));
+
 return;
 
 

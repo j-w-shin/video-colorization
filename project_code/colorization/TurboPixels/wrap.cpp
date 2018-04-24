@@ -15,7 +15,7 @@
 */
 
 #include "convolve.h"
-#include <malloc.h>
+#include <stdlib.h>
 
 /*
  --------------------------------------------------------------------
@@ -278,3 +278,4 @@ int internal_wrap_expand(double *image, register double *filt,register int x_fdi
 /* Local Variables: */
 /* buffer-read-only: t */
 /* End: */
+

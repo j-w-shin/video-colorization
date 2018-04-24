@@ -650,8 +650,8 @@ int ereflect(register double *filt,register int x_dim,int y_dim,int x_pos,int y_
   printf("\n");
 */
 
-
 
 /* Local Variables: */
 /* buffer-read-only: t */
 /* End: */
+

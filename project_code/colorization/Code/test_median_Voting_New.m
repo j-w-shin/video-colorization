@@ -1,15 +1,18 @@
 function test_median_Voting_New(keyword)
 close all;
 % keyword = 'lion';
-outputFileName = ['Result/' keyword];
+outputFileName = ['~/Documents/DL/video-colorization/project_code/colorization/Code/Results/' keyword];
 % mkdir(outputFileName);
 test_median1([keyword '_lab.mat'], outputFileName);
+delete([keyword '_lab.mat']);
 return;
 
 function test_median1(fName, outputFileName)
 
 load(fName)
 %% Get the Y channel of YCbCr color space that to be used by box filter.
+
+
 p2 = inImg; p2(:) = 0;
 p3 = inImg; p3(:) = 0;
 grayImg = cat(3, inImg, p2, p3);
@@ -178,7 +181,6 @@ pp=IncreaseSaturation(pp, 0.20);
 imwrite(pp, [outputFileName '_Result_sat.png']);
 %figure; imshow(pp);
 
-
 for i=1:superPixelCount
     spMap(colorInfo(i, 1), colorInfo(i, 2)) = 1;
 end
@@ -193,7 +195,7 @@ tmp_mapped = 1 - ((1 - confMap).*spMap);
 
 exit_flag = false;
 curr_idx_count = 0;
-num_pixs = 10;
+num_pixs = 300;
 
 min_idx_limited = zeros(num_pixs, 1);
 

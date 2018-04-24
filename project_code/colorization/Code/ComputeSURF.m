@@ -20,7 +20,7 @@ iimg=IntegralImage_IntegralImage(img(:, :, 1));
 [row col] = size(img(:, :, 1));
 SURF = zeros(row, col, 128);
 for I=1:row
-    clc; disp([num2str(I) '/' num2str(row)]);
+%     clc; disp([num2str(I) '/' num2str(row)]);
     for J=1:col
         ip.x = J;
         ip.y = I;

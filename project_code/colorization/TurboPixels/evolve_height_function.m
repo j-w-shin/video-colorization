@@ -11,7 +11,7 @@ function [new_phi,boundary_speed] = evolve_height_function(phi, speed, boundary_
         boundary_speed = [];
     else
         if (isempty(boundary_speed))
-            boundary_speed = get_speed_based_on_boundaries(phi,background_init);
+              boundary_speed = get_speed_based_on_boundaries(phi,background_init);
         end
         speed = speed .* boundary_speed;
         

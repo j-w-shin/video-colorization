@@ -3,7 +3,7 @@ function Colorization(keyWord, InputImg, inpColImg, param)
 %close all;
 %warning off;
 SelectedNN = param.nnSize;
-outputDir = ['.\Results\' keyWord '\'];
+outputDir = ['~/Documents/DL/video-colorization/project_code/colorization/Code/Results/'];
 dataFileName = [outputDir keyWord '_ColorizationData.mat'];
 outputFileName = [outputDir num2str(SelectedNN) '_' keyWord ];
 
@@ -46,7 +46,7 @@ if generateColorizationData == 1
     texture1 = reshape(texture1, [ImgRow*ImgCol size(texture1,3)]); 
     
     for I = 1:TotalSuperpixels
-        clc;disp(['Processing Image 1: '  num2str(I) ' of ' num2str(TotalSuperpixels)]);
+%         clc;disp(['Processing Image 1: '  num2str(I) ' of ' num2str(TotalSuperpixels)]);
         sp = (label1 == I);
         currSP_Idx = sp==1;
         currSP_sift = Sift1(currSP_Idx,:);
@@ -119,7 +119,7 @@ if generateColorizationData == 1
         texture2 = reshape(texture2, [ImgRow*ImgCol size(texture2,3)]); 
         
         for I = 1:TotalSuperpixels
-            clc;disp(['Processing Color Image ' num2str(counter) ': ' num2str(I) ' of ' num2str(TotalSuperpixels)]);
+%             clc;disp(['Processing Color Image ' num2str(counter) ': ' num2str(I) ' of ' num2str(TotalSuperpixels)]);
             sp = (label2 == I);
             % Compute the mean SIFT Value of each Super Pixel.
 %             for J = 1:fcount
@@ -188,18 +188,18 @@ if generateColorizationData == 1
 end
 % clear all;
 load(dataFileName)
-disp('computing NN...');
 TotalSuperpixels = size(spTexture1, 1);
 nnCount = min(TotalSuperpixels, SelectedNN);
 % [D, N] = knn(spSIFT1', spSIFT2', nnCount);
 % N = FilterBasedOnTexture(N, spTexture1, spTexture2, nnCount/2);
+disp('computing NN...');
 [costMatrix N] = knn(spTexture1', spTexture2', nnCount);
-[costMatrix N] = FilterBasedOnSIFT(N, spSIFT1, spSIFT2, nnCount/2, costMatrix);
+[costMatrix N] = FilterBasedOnSIFT(N, spSIFT1, spSIFT2, floor(nnCount/2), costMatrix);
 [costMatrix N] = FilterBasedOnIntensity(N, spStd1(:, 1:2), spStd2(:, 1:2), floor(nnCount/4), costMatrix, 0.2);
 [costMatrix N] = FilterBasedOnIntensity(N, spStd1(:, 3:4), spStd2(:, 3:4), floor(nnCount/8), costMatrix, 0.1);
-
 nnCount = floor(nnCount/8);
 save([keyWord '_lab.mat'], 'inImg', 'inCol', 'label1', 'label2', 'N', 'costMatrix', 'nnCount', 'nnList1', 'spCol2');
+
 test_median_Voting_New(keyWord);
 disp('done....');
 return;
@@ -268,7 +268,7 @@ return;
 function [ScribbledImg, labels, colorMatrix] = GenerateColorInfo(inImg, inSmImg, wrappedColImg, mask, spCount)
 wrappedGrayImg = rgb2gray(wrappedColImg);
 % Compute the superpixels by using QuickSeg.
-[phi, boundary, seg, labels] = superpixels(inImg, spCount);
+[phi, boundary, seg, labels] = superpixels(inImg, spCount, 0, 'red');
 labels = GetSingleComponent(labels);
 labels(~inSmImg) = -1;  seg(~inSmImg) = 1;
 % figure; imshow(seg);

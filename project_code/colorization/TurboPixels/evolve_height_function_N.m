@@ -1,5 +1,5 @@
-function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_step, num_iterations, speed_type, display_interval, boundary_speed_interval, numSuperPixels, seeds)
-
+function phi = evolve_height_function_N(img, time_step, num_iterations, speed_type, display_interval, boundary_speed_interval, numSuperPixels, seeds)
+    
     storeFrames = (nargout == 2);
     frames = [];
     frameWait = 0;
@@ -35,11 +35,10 @@ function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_st
     end
     
     smooth_img = 1;
-    
     if (strcmp(speed_type,'superpixels'))
         % Compute the speed of propagation
         smooth_img = evolve_height_function_N(img, 0.1, 10, 'curvature', 0, 0);
-        
+
         expSuperPixelDist = sqrt(prod(size(img))/numSuperPixels);
         normSigma = floor(expSuperPixelDist / 2.5);
         [speed_grad,speed_grad_x,speed_grad_y] = get_speed_based_on_gradient(smooth_img,[],normSigma,phi);
@@ -63,7 +62,7 @@ function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_st
         phi = img;
         speed = 1;
     end
-
+    
     if (display_interval > 0)
         if (storeFrames)
             disp_img = display_contour(phi, imRGB);
@@ -77,8 +76,10 @@ function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_st
         end
     end
     
+
     for i = 1:num_iterations
-              
+ 
+        
         if (display_interval > 0)
             disp(['Iteration: ',num2str(i)]);
         end
@@ -115,14 +116,15 @@ function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_st
                 speed = get_speed_based_on_gradient(smooth_img,1,normSigma,phi,speed_grad_extended,speed_grad_x_extended,speed_grad_y_extended);
             end
         end
-
+        
         % Evolve the height function one time step
         if (mod(i,boundary_speed_interval) == 1 && strcmp(speed_type, 'superpixels'))
             [phi,boundary_speed] = evolve_height_function(phi, speed, [], time_step, speed_type, band_ind, background_init);
         else
             [phi,boundary_speed] = evolve_height_function(phi, speed, boundary_speed, time_step, speed_type, band_ind);
+            
         end
-                
+
         % Stop based on the relative area increase
         coveredArea = sum(phi(:) < 0);
         relativeAreaInc = (coveredArea-old_coveredArea)/prod(size(phi));
@@ -166,6 +168,11 @@ function [phi,frames,numIter,speed_grad] = evolve_height_function_N(img, time_st
             pause;
         end
     end
+    
+    
+    
+
+    
     
 
     

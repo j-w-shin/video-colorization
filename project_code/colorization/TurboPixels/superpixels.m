@@ -16,6 +16,7 @@ function [phi,boundary,disp_img,sup_image] = superpixels(img, numSuperpixels, di
     timeStep = 0.5;
     maxIterations = 500;
     
+    
     if (nargin < 3 || isempty(display_int))
         display_int = 0;
     end
@@ -25,7 +26,6 @@ function [phi,boundary,disp_img,sup_image] = superpixels(img, numSuperpixels, di
     end
     
     phi = evolve_height_function_N(img, timeStep, maxIterations, 'superpixels', display_int, [], numSuperpixels);
-    
     if (size(img,3) > 1)
         smooth_img = evolve_height_function_N(rgb2gray(img), 0.1, 10, 'curvature', 0, 0);
     else
@@ -37,5 +37,4 @@ function [phi,boundary,disp_img,sup_image] = superpixels(img, numSuperpixels, di
     speed2 = exp(- mag/5);
     boundary = get_superpixel_boundaries(phi,speed2);
     disp_img = display_logical(img, boundary, contour_color);
-    
     sup_image = get_segments_from_superpixel_boundaries(speed2, boundary);

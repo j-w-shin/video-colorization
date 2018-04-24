@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3f36b2e-1239-4cb5-8e63-1430e880376b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/Building_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/Building_col.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame1-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame10-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame11-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame12-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame13-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame14-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame15-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame16-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame17-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame18-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame19-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame2-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame20-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame21-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame22-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame23-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame24-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame25-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame26-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame27-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame28-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame29-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame3-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame30-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame31-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame32-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame33-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame34-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame35-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame36-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame37-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame38-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame39-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame4-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame40-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame41-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame42-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame43-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame44-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame45-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame46-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame47-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame48-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame49-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame5-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame50-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame51-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame52-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame53-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame54-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame55-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame56-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame57-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame58-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame59-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame6-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame60-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame61-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame62-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame7-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame8-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame9-bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/frame9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/lion-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/lion-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/nyc_bw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Input/nyc_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/.\Results\Building_2\Building_2_ColorizationData.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/.\Results\lion-1\lion-1_ColorizationData.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/.\Results\nyc_bw\nyc_bw_ColorizationData.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/lion-1_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/lion-1_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/lion-1_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/nyc_bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/nyc_bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/Result/nyc_bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/lion-1_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2/nyc_bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Building_2_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Result/Building_2_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Result/Building_2_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/Result/Building_2_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Result/nyc_bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/top.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Code/top.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/ReadMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame1-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame10-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame11-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame12-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame13-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame14-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame15-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame16-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame17-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame18-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame19-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame2-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame20-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame21-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame22-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame23-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame24-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame25-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame26-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame27-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame28-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame29-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame3-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame30-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame31-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame32-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame33-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame34-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame35-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame36-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame37-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame38-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame39-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame4-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame40-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame41-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame42-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame43-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame44-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame45-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame46-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame47-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame48-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame49-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame5-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame50-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame51-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame52-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame53-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame54-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame55-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame56-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame57-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame58-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame59-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame6-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame60-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame7-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame8-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/frame9-bw_pixmap_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_ColorMap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_Conf1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_Result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_Result_sat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_ScribbledImg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_pixmap_sat_old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_pixmap_sat_older.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/Result/nyc_bw_pixmap_sat_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeDistanceFunction2d.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeDistanceFunction2d.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeExtensionFields2d.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeExtensionFields2d.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/doHomotopicThinning.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/doHomotopicThinning.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgEdge.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgEdgeDetect.asv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgEdgeDetect.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgEdgeList.asv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgEdgeList.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgGlobalFc.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edge/BgImage.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edison_wrapper_mex.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edison_wrapper_mex.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/MSReadme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/RAList.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/ms.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/msImageProcessor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/msSys.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/msSysPrompt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/segm/rlist.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame1-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame10-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame11-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame12-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame13-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame14-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame15-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame16-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame17-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame18-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame19-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame2-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame20-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame21-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame22-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame23-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame24-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame25-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame26-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame27-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame28-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame29-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame3-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame30-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame31-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame32-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame33-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame34-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame35-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame36-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame37-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame38-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame39-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame4-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame40-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame41-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame42-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame43-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame44-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame45-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame46-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame47-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame48-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame49-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame5-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame50-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame51-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame52-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame53-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame54-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame55-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame56-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame57-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame58-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame59-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame6-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame60-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame7-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame8-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/frame9-bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/knn/top.mexa64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/knn/top.mexw64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/mapped_map.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/colorization/nyc_bw_lab.mat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/DemoGlobalHistogramTransfer.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/DemoInteractiveColorization.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/Individual_Frames.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/Individual_Frames.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/Running_example.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/caffe_files/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/gupta_inf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ideepcolor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/imgs/demo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/imgs/pad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/imgs/teaser_v3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames/frame9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/gui_design.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/gui_draw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/gui_gamut.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/gui_palette.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/gui_vis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/ui_control.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/ideepcolor/ui/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/DemoGlobalHistogramTransfer.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/DemoInteractiveColorization.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/caffe_files/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/caffe_files/caffe_traininglayers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/caffe_files/color_quantization.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/caffe_files/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/data/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/data/colorize_image.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/data/lab_gamut.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ideepcolor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/imgs/demo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/imgs/pad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/imgs/teaser_v3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/models/fetch_models.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/models/global_model/deploy_nodist.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/models/global_model/global_stats.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/models/reference_model/deploy_nodist.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/models/reference_model/deploy_nopred.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/gui_design.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/gui_draw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/gui_gamut.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/gui_palette.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/gui_vis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/ui_control.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/interactive-deep-colorization/ui/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/models/deploy.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/models/deploy_lab.prototxt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/resources/fetch_caffe.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/splitbrainauto/resources/fetch_models.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/_posts/2017-11-17-colorization.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/_posts/2017-11-17-ideepcolor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/_posts/2017-11-17-splitbrainauto.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/images/colorization.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/images/ideepcolor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_code/zheng_colorization/website/images/splitbrainauto.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame0.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame1.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame10.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame11.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame12.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame13.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame14.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame15.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame16.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame17.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame18.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame19.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame2.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame20.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame21.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame22.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame23.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame24.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame25.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame26.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame27.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame28.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame29.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame3.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame30.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame31.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame32.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame33.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame34.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame35.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame36.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame37.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame38.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame39.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame4.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame40.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame41.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame42.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame43.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame44.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame45.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame46.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame47.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame48.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame49.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame5.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame50.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame51.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame52.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame53.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame54.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame55.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame55.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame56.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame57.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame58.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame59.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame6.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame60.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame61.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame61.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame62.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame62.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame7.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame8.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame9.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/bw_frames/frame9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame0.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame1.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame10.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame11.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame12.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame13.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame14.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame15.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame16.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame17.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame18.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame19.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame2.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame20.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame21.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame22.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame23.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame24.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame25.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame26.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame27.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame28.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame29.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame3.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame30.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame31.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame32.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame33.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame34.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame35.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame36.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame37.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame38.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame39.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame4.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame40.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame41.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame42.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame43.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame44.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame45.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame46.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame47.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame48.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame49.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame5.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame50.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame51.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame52.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame53.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame54.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame55.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame55.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame56.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame57.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame58.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame59.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame6.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame60.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame61.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame61.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame62.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame62.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame7.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame8.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame9.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/color_frames/frame9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame0.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame1.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame10.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame11.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame12.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame13.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame14.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame15.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame16.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame17.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame18.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame19.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame2.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame20.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame21.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame22.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame23.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame24.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame25.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame26.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame27.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame28.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame29.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame3.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame30.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame31.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame32.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame33.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame34.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame35.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame36.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame37.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame38.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame39.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame4.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame40.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame41.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame42.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame43.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame44.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame45.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame46.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame47.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame48.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame49.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame5.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame50.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame51.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame52.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame53.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame54.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame55.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame55.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame56.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame57.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame58.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame59.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame6.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame60.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame7.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame8.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame9.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_features/frame9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame0.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame1.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame10.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame11.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame12.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame13.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame14.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame15.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame16.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame17.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame18.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame19.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame2.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame20.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame21.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame22.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame23.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame24.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame25.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame26.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame27.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame28.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame29.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame3.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame30.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame31.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame32.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame33.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame34.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame35.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame36.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame37.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame38.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame39.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame4.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame40.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame41.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame42.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame43.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame44.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame45.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame46.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame47.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame48.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame49.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame5.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame50.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame51.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame52.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame53.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame54.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame55.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame55.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame56.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame57.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame58.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame59.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame6.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame60.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame61.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame61.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame62.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame62.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame7.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame8.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame9.jpg" afterPath="$PROJECT_DIR$/project_code/ideepcolor/out_frames_vanilla/frame9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Colorization.m" afterPath="$PROJECT_DIR$/project_code/colorization/Code/Colorization.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/Code/ComputeSURF.m" afterPath="$PROJECT_DIR$/project_code/colorization/Code/ComputeSURF.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/Code/Main_Colorization.m" afterPath="$PROJECT_DIR$/project_code/colorization/Code/Main_Colorization.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/Code/knn.m" afterPath="$PROJECT_DIR$/project_code/colorization/Code/knn.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/Code/test_median_Voting_New.m" afterPath="$PROJECT_DIR$/project_code/colorization/Code/test_median_Voting_New.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/convolve.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/convolve.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/corrDn.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/corrDn.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/edges.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/edges.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/evolve_height_function.m" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/evolve_height_function.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/evolve_height_function_N.m" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/evolve_height_function_N.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/get_speed_based_on_boundaries.m" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/get_speed_based_on_boundaries.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeExtensionFields2d.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/lsmlib/computeExtensionFields2d.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/superpixels.m" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/superpixels.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/upConv.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/upConv.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/TurboPixels/wrap.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/TurboPixels/wrap.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edison_wrapper_mex.cpp" afterPath="$PROJECT_DIR$/project_code/colorization/edison_matlab_interface/edison_wrapper_mex.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/main.py" afterPath="$PROJECT_DIR$/project_code/ideepcolor/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_code/ideepcolor/models/fetch_models.sh" afterPath="$PROJECT_DIR$/project_code/ideepcolor/models/fetch_models.sh" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load_image</find>
+      <find>get_img_fullres</find>
+      <find>lab2rgb_transpose</find>
+      <find>_set_out_ab_</find>
+      <find>color</find>
+      <find>net_forward</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project_code/ideepcolor/test.py" />
+        <option value="$PROJECT_DIR$/project_code/ideepcolor/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="video-colorization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="video-colorization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="video-colorization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="video-colorization" type="462c0819:PsiDirectoryNode" />
+              <item name="project_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="video-colorization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="video-colorization" type="462c0819:PsiDirectoryNode" />
+              <item name="project_code" type="462c0819:PsiDirectoryNode" />
+              <item name="ideepcolor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="video-colorization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="video-colorization" type="462c0819:PsiDirectoryNode" />
+              <item name="project_code" type="462c0819:PsiDirectoryNode" />
+              <item name="ideepcolor" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_code/ideepcolor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="video-colorization" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_code/ideepcolor/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_code/ideepcolor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="video-colorization" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_code/ideepcolor/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f36b2e-1239-4cb5-8e63-1430e880376b" name="Default" comment="" />
+      <created>1522968283319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522968283319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34933335" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/data/colorize_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="255" column="40" lean-forward="false" selection-start-line="255" selection-start-column="29" selection-end-line="255" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/data/colorize_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="255" column="40" lean-forward="false" selection-start-line="255" selection-start-column="29" selection-end-line="255" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/DemoGlobalHistogramTransfer.ipynb" />
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/data/colorize_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="255" column="40" lean-forward="false" selection-start-line="255" selection-start-column="29" selection-end-line="255" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="21" lean-forward="false" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/data/colorize_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="204" column="20" lean-forward="false" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/Individual_Frames.py" />
+    <entry file="file:///usr/local/lib/python3.6/site-packages/matlab/engine/matlabengine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/matlab/engine/fevalfuture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/matlab/engine/futureresult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/test.py" />
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/DemoGlobalHistogramTransfer.ipynb" />
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_code/ideepcolor/data/colorize_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="255" column="40" lean-forward="false" selection-start-line="255" selection-start-column="29" selection-end-line="255" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -29,15 +29,15 @@ void mexFunction(
     
     /* first argument - the image in whatever feature space it is given in */
     float * fimage = (float*)mxGetData(prhs[0]);
-    const int* image_dims = mxGetDimensions(prhs[0]);
+    const unsigned long* image_dims = mxGetDimensions(prhs[0]);
     int image_ndim = mxGetNumberOfDimensions(prhs[0]);
-    unsigned int w = image_dims[1];
-    unsigned int h = image_dims[2];
-    unsigned int N = image_dims[0];
+    unsigned long w = image_dims[1];
+    unsigned long h = image_dims[2];
+    int N = image_dims[0];
     int ii;
     
     unsigned char * rgbim = (unsigned char*)mxGetData(prhs[1]);
-    const int * rgb_dims = mxGetDimensions(prhs[1]);
+    const unsigned long * rgb_dims = mxGetDimensions(prhs[1]);
     if ( rgb_dims[1] != w || rgb_dims[2] != h )
         mexErrMsgIdAndTxt("edison_wraper:main","size of fim and rgbim do not match");
     
@@ -116,7 +116,7 @@ void mexFunction(
     
     if (syn) {
         /* perform synergistic segmentation */
-        int maps_dim[2] = {w*h, 1};
+        unsigned long maps_dim[2] = {w*h, 1};
         /* allcate memory for confidence and gradient maps */
         mxconf = mxCreateNumericArray(2, maps_dim, mxSINGLE_CLASS, mxREAL);
         conf = (float*)mxGetData(mxconf);
@@ -169,7 +169,7 @@ void mexFunction(
             plabels[ii] = labels[ii];
     }
     delete [] labels;
-    int arr_dims[2];
+    unsigned long arr_dims[2];
     if ( nlhs >= 3 ) {
         // third output - the modes
         arr_dims[0] = N;

@@ -318,8 +318,10 @@ int internal_expand(register double *image,double *filt,register double *temp,re
   return(0);
   } /* end of internal_expand */
 
+
 
 /* Local Variables: */
 /* buffer-read-only: t */
 /* End: */
+
 

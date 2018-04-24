@@ -23,7 +23,7 @@ RES = upConv(IM, FILT, EDGES, STEP, START, STOP, RES);
 void mexFunction(int nlhs,	     /* Num return vals on lhs */
 		 mxArray *plhs[],    /* Matrices on lhs      */
 		 int nrhs,	     /* Num args on rhs    */
-		 mxArray *prhs[]     /* Matrices on rhs */
+		 const mxArray *prhs[]     /* Matrices on rhs */
 		 )
   {
   double *image,*filt, *temp, *result, *orig_filt;
@@ -35,7 +35,7 @@ void mexFunction(int nlhs,	     /* Num return vals on lhs */
   int y_start = 1;
   int y_step = 1;
   int x_stop, y_stop;
-  mxArray *arg;
+  const mxArray *arg;
   double *mxMat;
   char edges[15] = "reflect1";
 

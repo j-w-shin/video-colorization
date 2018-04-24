@@ -69,7 +69,7 @@ void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
   double **source_fields;
   double *distance_function;
   double **extension_fields;
-  int num_ext_fields;
+  mwSize num_ext_fields;
   double max_value;
  
   /* grid data */

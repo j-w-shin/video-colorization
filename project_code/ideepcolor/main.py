@@ -96,44 +96,11 @@ def feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path,
     engine.addpath("~/Documents/DL/video-colorization/project_code/colorization/TurboPixels/lsmlib", nargout=0)
     engine.addpath("~/Documents/DL/video-colorization/project_code/colorization/OpenSURF/SubFunctions", nargout=0)
 
-    for i in range(150):
+    for i in range(151):
         img_path = bw_frames_path + 'frame' + str(i) + '.jpg'
         cid.load_image(img_path)
 
         print("frame" + str(i))
-
-        # if i > 0:
-        #     ref_path = bw_frames_path + 'frame' + str(i-1) + '.jpg'
-        # else:
-        #     ref_path = bw_frames_path + 'frame0.jpg'
-        #
-        # img1 = cv2.imread(ref_path)
-        # img2 = cv2.imread(img_path)
-        #
-        # orb = cv2.ORB_create()
-        # kp1, des1 = orb.detectAndCompute(img1, None)
-        # kp2, des2 = orb.detectAndCompute(img2, None)
-        #
-        # bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
-        # matches = bf.match(des1, des2)
-        # matches = sorted(matches, key=lambda x: x.distance)
-        #
-        # if i > 0:
-        #     ref_path = out_frames_path + 'frame' + str(i-1) + '.jpg'
-        # else:
-        #     ref_path = 'color_frames/frame0.jpg'
-        # temp = io.imread(ref_path)
-        # temp = color.rgb2lab(temp)
-        #
-        # pix_idxs = []
-        # pix_ab_vals = []
-        #
-        # for mat in matches[:10]:
-        #     col, row = kp1[mat.queryIdx].pt
-        #     row = int(row)
-        #     col = int(col)
-        #     pix_idxs.append((row, col))
-        #     pix_ab_vals.append(temp[row][col])
 
         engine.Main_Colorization('frame' + str(i), 'ref', nargout=0)
 
@@ -141,8 +108,7 @@ def feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path,
             temp = io.imread('../colorization/Code/Results/frame' + str(i-1) + '_Result_sat.png')
         else:
             temp = io.imread("../colorization/Code/Input/ref.jpg")
-        # if len(temp[0][0]) != 3:
-        #     temp = temp[:, :, :3]
+
         temp = color.rgb2lab(temp)
 
         rgb = io.imread('../colorization/Code/Results/frame' + str(i) + '_pixmap_sat.png')
@@ -169,8 +135,6 @@ def feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path,
         img_out_fullres = cid.get_img_fullres()
         img_out = cv2.cvtColor(img_out_fullres, cv2.COLOR_RGB2BGR)
 
-        # temp = cv2.imread('../colorization/Code/Results/frame' + str(i) + '_Result_sat.png')
-        # cv2.imwrite("../colorization/Code/Input/ref.jpg", temp)
         cv2.imwrite(out_frames_path + 'frame' + str(i) + '.jpg', img_out)
 
 
@@ -189,19 +153,19 @@ if __name__ == '__main__':
 
     Xd = 256
 
-    # fps = video_to_frames(video_path, color_frames_path)
-    # make_bw_frames(color_frames_path, bw_frames_path)
+    fps = video_to_frames(video_path, color_frames_path)
+    make_bw_frames(color_frames_path, bw_frames_path)
     fps = 30
 
     # vanilla_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_vanilla_path)
-    # feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_path)
+    feature_map_network_colorize(prototxt_path, caffemodel_path, bw_frames_path, out_frames_path)
 
     # # img = cv2.imread(out_frames_path + "frame0.jpg")
     # img = cv2.imread('../colorization/Code/Results/frame0_Result_sat.png')
     # height, width, _ = img.shape
-    # video = cv2.VideoWriter('gupta_6.mp4', -1, 30, (width, height))
+    # video = cv2.VideoWriter('gupta_8.mp4', -1, 30, (width, height))
     #
-    # for i in range(150):
+    # for i in range(151):
     #     # img = cv2.imread(out_frames_path + "frame" + str(i) + ".jpg")
     #     img = cv2.imread('../colorization/Code/Results/frame' + str(i) + '_Result_sat.png')
     #     video.write(img)
@@ -209,36 +173,3 @@ if __name__ == '__main__':
     # cv2.destroyAllWindows()
     # video.release()
 
-
-    # cid = CI.ColorizeImageCaffeGlobDist(Xd)
-    # cid.prep_net(-1, prototxt_path='./models/global_model/deploy_nodist.prototxt',
-    #              caffemodel_path='./models/global_model/global_model.caffemodel')
-    #
-    # # Global distribution network - extracts global color statistics from an image
-    # gt_glob_net = caffe.Net('./models/global_model/global_stats.prototxt',
-    #                         './models/global_model/dummy.caffemodel', caffe.TEST)
-    #
-    # ref = cv2.imread("color_frames/frame0.jpg")
-    # cv2.imwrite("../colorization/Code/Input/ref.jpg", ref)
-    #
-    # for i in range(125):
-    #     img_path = bw_frames_path + 'frame' + str(i) + '.jpg'
-    #     cid.load_image(img_path)
-    #
-    #     print("frame" + str(i))
-    #
-    #
-    #     ref_path = "../colorization/Code/Input/ref.jpg"
-    #
-    #     input_ab = np.zeros((2, 256, 256))
-    #     mask = np.zeros((1, 256, 256))
-    #
-    #     input_ab = np.zeros((2, Xd, Xd))
-    #     input_mask = np.zeros((1, Xd, Xd))
-    #
-    #     (glob_dist_ref, ref_img_fullres) = get_global_histogram(ref_path)
-    #     img_pred = cid.net_forward(input_ab, input_mask, glob_dist_ref)
-    #     img_pred_withref_fullres = cid.get_img_fullres()
-    #
-    #     cv2.imwrite("../colorization/Code/Input/ref.jpg", img_pred_withref_fullres)
-    #     cv2.imwrite(out_frames_path + 'frame' + str(i) + '.jpg', img_pred_withref_fullres)

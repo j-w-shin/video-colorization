@@ -1,4 +1,12 @@
 # video-colorization
 James Shin (js478), Vu-Anh Phung (adp2161)
 
-Please see `project_code/ideepcolor/out_frames_features` for some preliminary results.
+The code for the CNN can be found in 'project_code/ideepcolor' and the code for features matching step is in 'project_code/colorization'.
+
+Please see 'project_code/ideepcolor/results' for some colorized video results. The videos are named 'features_x.mp4', which are recolorized versions of
+videos from the dataset in 'project_code/ideepcolor/YUP++'. A video colorized by vanilla CNN network for image is also shown thre, namely "vanilla.mp4".
+
+
+
+
+
